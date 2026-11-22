@@ -49,6 +49,16 @@ MySQL · MySQL Workbench
 - `saudi_art_museum.sql` — full DDL (table creation) and DML (sample data + queries)
 - `er_diagram.png` — ER diagram
 
-## Team
+## My Contributions
 
-Group project (4 students).
+
+- Wrote the organization description and designed the relational
+schema
+
+- Created the Visitor and Art_Piece tables
+
+- Wrote the SELECT and subquery queries
+
+- Organized and structured the project report
+
+
